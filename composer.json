@@ -1,14 +1,9 @@
 {
-  "name": "drupal/zee_map",
+  "name": "zee/drupal-zee-map",
   "type": "drupal-module",
   "description": "Zee Agency's AngularJS Map Module",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "homepage": "https://www.drupal.org/project/zee_map",
   "minimum-stability": "dev",
-  "support": {
-    "issues": "http://drupal.org/project/issues/zee_map",
-    "source": "http://cgit.drupalcode.org/zee_map"
-  },
   "require": { }
 }
